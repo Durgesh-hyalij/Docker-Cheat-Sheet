@@ -415,4 +415,4 @@ docker-compose down -v
 
 ---
 
-*Made with ❤️ — From zero to Docker hero.*
+*Made with Durgesh Hyalij❤️ — From zero to Docker hero.*
