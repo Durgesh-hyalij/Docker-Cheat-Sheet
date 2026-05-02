@@ -723,7 +723,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**Made with ❤️ by [durgeshcoder](https://github.com/durgeshcoder)**
+**Made with ❤️ by [durgeshcoder](https://github.com/durgesh-hyalij)**
 
 [![GitHub followers](https://img.shields.io/github/followers/durgeshcoder?style=social)](https://github.com/durgesh-hyalij)
 [![Docker Hub Pulls](https://img.shields.io/badge/Docker%20Hub-durgeshcoder-2CA5E0?style=flat&logo=docker)](https://hub.docker.com/u/durgeshcoder)
