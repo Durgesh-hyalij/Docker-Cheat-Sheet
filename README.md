@@ -9,7 +9,7 @@
 
 [![Maintained](https://img.shields.io/badge/Maintained-yes-green?style=flat-square)](https://github.com/durgeshcoder)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)](https://github.com/durgeshcoder)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)](https://github.com/durgesh-hyalij)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-durgeshcoder-2CA5E0?style=flat-square&logo=docker)](https://hub.docker.com/u/durgeshcoder)
 
 <br/>
@@ -725,7 +725,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Made with ❤️ by [durgeshcoder](https://github.com/durgeshcoder)**
 
-[![GitHub followers](https://img.shields.io/github/followers/durgeshcoder?style=social)](https://github.com/durgeshcoder)
+[![GitHub followers](https://img.shields.io/github/followers/durgeshcoder?style=social)](https://github.com/durgesh-hyalij)
 [![Docker Hub Pulls](https://img.shields.io/badge/Docker%20Hub-durgeshcoder-2CA5E0?style=flat&logo=docker)](https://hub.docker.com/u/durgeshcoder)
 
 ⭐ **Star this repo if it helped you!** ⭐
